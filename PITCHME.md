@@ -114,7 +114,7 @@ the drone is pointing could result in creating a collision instead of avoiding
 one .
 
 ---
-# Commercial
+## Uses
 1. Soil and field analysis
 2. Seeding (some startups)
 3. Spraying
@@ -132,7 +132,7 @@ footnote: https://www.technologyreview.com/s/601935/six-ways-drones-are-revoluti
 
 ---
 
-# Research
+## Research
 - Surveys
 - Radiation
 
