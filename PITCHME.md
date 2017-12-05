@@ -122,13 +122,13 @@ one .
 5. Irrigation
 6. Health assessment
 
-footnote: https://www.technologyreview.com/s/601935/six-ways-drones-are-revolutionizing-agriculture/
 
 Note:
 Last year MIT tech review published a list of activities that are currently done or
 are considered using drones in agriculture. I would say that the vast majority
 of current uses are soil and field analysis, crop monitoring and irrigation
 management.
+footnote: https://www.technologyreview.com/s/601935/six-ways-drones-are-revolutionizing-agriculture/
 
 ---
 
