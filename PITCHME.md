@@ -114,14 +114,22 @@ the drone is pointing could result in creating a collision instead of avoiding
 one .
 
 ---
-# Uses
+# Commercial
+1. Soil and field analysis
+2. Seeding (some startups)
+3. Spraying
+4. Crop monitoring
+5. Irrigation
+6. Health assessment
 
-- Commercial
-- Research
+footnote: https://www.technologyreview.com/s/601935/six-ways-drones-are-revolutionizing-agriculture/
 
 Note:
-Surveys for crop stress and pest and nutrient management make up the majority of
-current drone applications.
+Last year MIT tech review published a list of activities that are currently done or
+are considered using drones in agriculture. I would say that the vast majority
+of current uses are soil and field analysis, crop monitoring and irrigation
+management.
+
 ---
 
 # Research
